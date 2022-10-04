@@ -1,2 +1,2 @@
 # merge-conflicts
-Testing merge conflicts
+Testing merge conflicts 
